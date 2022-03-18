@@ -14,3 +14,8 @@ float sqrt2(const float& num)
 	}
 	return xn;
 }
+
+void newtonTest()
+{
+	printf("%d", sqrt2(3));
+}

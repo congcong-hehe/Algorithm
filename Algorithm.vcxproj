@@ -142,6 +142,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="backTrack.h" />
     <ClInclude Include="binary_search.h" />
     <ClInclude Include="quick_sort.h" />
     <ClInclude Include="newton_iteration.h" />

@@ -29,5 +29,8 @@
     <ClInclude Include="newton_iteration.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="backTrack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

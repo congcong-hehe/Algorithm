@@ -1,6 +1,7 @@
-#include "newton_iteration.h"
+#include "backTrack.h"
+#include <algorithm>
 
 int main()
 {
-	cout << sqrt2(2);
+	backTrackTest();
 }
