@@ -6,7 +6,7 @@
 using namespace std;
 
 // Ñ°ÕÒÒ»¸öÊı×Ö
-int binarySearch1(const vector<int>& nums, int a)
+int binarySearch(const vector<int>& nums, int a)
 {
 	int left = 0, right = nums.size()-1;
 

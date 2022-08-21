@@ -4,8 +4,6 @@
 
 using namespace std;
 
-
-
 int partition(vector<int> &nums, int left, int right)
 {
 	int pivot = nums[left];
